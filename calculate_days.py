@@ -35,4 +35,4 @@ if __name__ == "__main__":
     days = calculate_days_in_range(start_date, end_date)
     print(f"Number of days between {start_date} and {end_date}: {days}")
 
-    print(calculate_days_in_range("2024-01-01", "2024-01-10"))  # Output: 9
+    print(calculate_days_in_range("2024-01-01", "2024-01-15"))
