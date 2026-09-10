@@ -4,7 +4,7 @@ from datetime import datetime
 
 def calculate_days_in_range(start_date: str, end_date: str) -> int:
     """
-    Return the number of days between the start and end dates.
+    Return the number of days between the start and end dates..
 
     Args:
         start_date (str): The beginning date in 'YYYY-MM-DD' format.
